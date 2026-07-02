@@ -28,6 +28,18 @@ https://buzzang-dev.vercel.app/search?bc1=1&sort=0
 * 네이버 지도처럼 현재 화면에 나오는 범위를 검색하는 Bounding Box Query 기법 구현
 * 댓글 기능 구현
 * 1대1 채팅 구현
+* <img width="1779" height="928" alt="스크린샷 2026-07-02 20 41 55" src="https://github.com/user-attachments/assets/b56ebf19-bef3-4d2c-9d0b-dab2cf3f2fc7" />
+1. 필터를 통해 원하는 조건의 매물들을 불러올 수 있도록 구현
+2. 필터를 통해 검색하면 원하는 매물들이 나옴
+
+*<img width="1787" height="945" alt="스크린샷 2026-07-02 20 45 41" src="https://github.com/user-attachments/assets/8edc0d9a-3861-497e-8b2a-16f184f29798" />
+지도를 통해 검색하는 방식 구현
+휠을 올려 지도가 넓어지면 Bounding Box Query도 범위를 같이 늘려서 위도, 경도를 너 넓게 검색하도록 한다.
+
+
+
+
+
 
 
 # 목적
