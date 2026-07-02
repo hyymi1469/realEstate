@@ -21,6 +21,15 @@ https://buzzang-dev.vercel.app/search?bc1=1&sort=0
 
 * AI - ClaudeCode, Codex
 
+
+# Overview
+* access token & refresh token으로 로그인 유지
+* 이메일 인증방식으로 비밀번호 및 회원가입 구현
+* 네이버 지도처럼 현재 화면에 나오는 범위를 검색하는 Bounding Box Query 기법 구현
+* 댓글 기능 구현
+* 1대1 채팅 구현
+
+
 # 목적
 부동산 중개업에도 여러 분야가 있음.
 여러 웹 사이트에서 이미 부동산을 웹으로 나타내고 있지만 그중에 상가를 전문으로 하는 웹 사이트는 없고 홍보를 하기에도 어려움이 있음.
