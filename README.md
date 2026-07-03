@@ -21,6 +21,8 @@ https://buzzang-dev.vercel.app/search?bc1=1&sort=0
 
 * AI - ClaudeCode, Codex
 
+* 스토리지 - CloudFlare R2
+
 
 # 목적
 부동산 중개업에도 여러 분야가 있음.
@@ -42,6 +44,14 @@ https://buzzang-dev.vercel.app/search?bc1=1&sort=0
 <img width="1787" height="945" alt="스크린샷 2026-07-02 20 45 41" src="https://github.com/user-attachments/assets/8edc0d9a-3861-497e-8b2a-16f184f29798" />
 지도를 통해 검색하는 방식 구현
 휠을 올려 지도가 넓어지면 Bounding Box Query도 범위를 같이 늘려서 위도, 경도를 더 넓게 검색하도록 한다.
+
+
+<img width="1787" height="939" alt="스크린샷 2026-07-03 10 52 57" src="https://github.com/user-attachments/assets/2569cdc1-667d-4893-afdb-5acc692818a9" />
+<img width="1787" height="942" alt="스크린샷 2026-07-03 10 53 56" src="https://github.com/user-attachments/assets/fad93341-5da4-4724-8f8c-5e066e6a36bf" />
+<img width="1794" height="941" alt="스크린샷 2026-07-03 10 54 59" src="https://github.com/user-attachments/assets/053780b0-a7f6-49dc-a882-00c7faaca6ea" />
+매물을 올리는 과정.
+매물을 올리면 DB에서 매물 정보를 저장한다. 임시저장 시에는 프론트앤드에서 주는 JSON을 그대로 저장하고 불러오기 할 때도 그대로 보내준다.
+
 
 
 # 장비세팅
