@@ -51,7 +51,7 @@ https://buzzang-dev.vercel.app/search?bc1=1&sort=0
 <img width="1794" height="941" alt="스크린샷 2026-07-03 10 54 59" src="https://github.com/user-attachments/assets/053780b0-a7f6-49dc-a882-00c7faaca6ea" />
 매물을 올리는 과정.
 매물을 올리면 DB에서 매물 정보를 저장한다. 임시저장 시에는 프론트앤드에서 주는 JSON을 그대로 저장하고 불러오기 할 때도 그대로 보내준다.
-
+매물에 같이 올릴 이미지, 동영상은 서버가 아닌 CloudFlare R2 저장소에 저장한다. 서버에 요청하면 preURL을 프론트앤드에게 주고 프론트앤드는 해당 URL로 동영상 및 이미지를 저장한다.
 
 
 # 장비세팅
