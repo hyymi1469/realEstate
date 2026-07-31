@@ -1,6 +1,6 @@
 ## 해당 프로젝트는 상용으로 사용 중인 소프트웨어라 코드를 공개할 수 없습니다.
 # 부동산 거래 웹(개발 중)
-https://buzzang-dev.vercel.app/search?bc1=1&sort=0
+https://sanggamarket.com/home
 
 상가 부동산 매매를 전문으로 하는 사이트 개발 중
 
